@@ -67,9 +67,6 @@ namespace CupsOfCoffee
       Console.WriteLine("The quotient of the 2 numbers entered is: " + quotient);
       Console.WriteLine("The product of the 2 numbers entered is: " + product);
       Console.WriteLine("The remainder from dividing number 1 by number 2 is: " + remainder);
-
-      //EPIC
-      //Move all logic to a separate file and call that file from the main method
     }
   }
 }

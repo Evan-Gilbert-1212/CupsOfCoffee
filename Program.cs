@@ -6,6 +6,7 @@ namespace CupsOfCoffee
   {
     static void Main(string[] args)
     {
+      //EPIC: Move all logic to a separate file and call that file from the main method
       MyCodeBlock.CodeBlock(null);
     }
   }
